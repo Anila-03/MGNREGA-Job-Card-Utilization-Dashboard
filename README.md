@@ -58,4 +58,56 @@
 ---
 
 ## Repository Structure:
+- **Data**: https://github.com/Anila-03/MGNREGA-Job-Card-Utilization-Dashboard/blob/main/MGNREGA.csv
+- **Dashboard**: https://github.com/Anila-03/MGNREGA-Job-Card-Utilization-Dashboard/blob/main/MGNREGA%20dashboard.xlsx
 
+---
+
+## 🛠 **Setup Instructions**  
+
+1. **Clone the Repository:**  
+2. **Download the Excel Dashboard** from the `/dashboard/` folder.  
+3. Open the file in **Microsoft Excel** (enable macros for interactive features).  
+4. Use **filters, slicers, and visualizations** to explore the insights.  
+
+---
+
+##  **Analysis Methodology**  
+
+### ** Data Collection**  
+- Sources:  
+- [Kaggle](https://lnkd.in/g6aPcsiG)  
+- [Data.gov.in](https://data.gov.in/)  
+- [MGNREGA Official Website](https://nrega.nic.in/)  
+
+### ** Data Cleaning & Transformation**  
+- **Removed inconsistencies** (duplicate/missing values).  
+- **Standardized formats** (dates, numeric values).  
+- **Created calculated fields** (active job card & worker percentages).  
+
+### ** Data Visualization**  
+- Used **pivot tables, charts, and slicers** for dynamic exploration.  
+- Designed an **interactive dashboard** for **state-wise analysis**.  
+
+---
+
+##  **Challenges & Learnings**  
+
+ **Challenges Faced:**  
+- Handling **large datasets** while maintaining Excel performance.  
+- Ensuring **accurate data mapping** across states.  
+- Designing a **user-friendly dashboard** for policymakers.  
+
+ **Key Learnings:**  
+- Improved proficiency in **data wrangling & visualization**.  
+- Gained insights into **public policy analytics**.  
+- Enhanced storytelling skills using **data-driven narratives**.
+
+
+---
+
+## 💡 **Contribution & Feedback**  
+
+📩 **Want to improve this dashboard?** Feel free to **fork this repository**, raise an issue, or contribute enhancements!  
+
+📢 **Let's drive meaningful policy changes through data insights! 🚀**  
